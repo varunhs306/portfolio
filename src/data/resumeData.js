@@ -109,6 +109,12 @@ export const skills = {
 
 export const certifications = [
   {
+    title: "AWS Certified Cloud Practitioner",
+    issuer: "Amazon Web Services",
+    link: "https://www.credly.com/badges/52307710-90d9-4c17-824a-378046cc0da2/public_url",
+    credlyBadgeId: "52307710-90d9-4c17-824a-378046cc0da2",
+  },
+  {
     title: "Oracle Cloud Infrastructure — Certified Generative AI Professional",
     issuer: "Oracle",
     link: null,
